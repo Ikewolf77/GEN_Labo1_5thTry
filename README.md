@@ -2,6 +2,7 @@
 
 2nd
 <<<<<<< HEAD
+<<<<<<< HEAD
 3rd
 4th
 <<<<<<< HEAD
@@ -16,6 +17,13 @@ exp
 dev2nd
 =======
 >>>>>>> dev
+<<<<<<< HEAD
 >>>>>>> master
 
 dev3rd
+=======
+=======
+exp
+crazy
+>>>>>>> crazy_idea
+>>>>>>> master
