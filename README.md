@@ -17,4 +17,8 @@ exp
 exp
 crazy
 >>>>>>> crazy_idea
+<<<<<<< HEAD
 6th
+=======
+bug
+>>>>>>> bug_fix
