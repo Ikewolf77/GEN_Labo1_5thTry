@@ -27,3 +27,5 @@ exp
 crazy
 >>>>>>> crazy_idea
 >>>>>>> master
+
+dev final
